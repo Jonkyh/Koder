@@ -1,0 +1,10 @@
+C:\Users\kyhnj\OneDrive\Skrivebord\Programmering\Yatzy spil\YatzySpil\YatzySpil\bin\Debug\YatzySpil.exe.config
+C:\Users\kyhnj\OneDrive\Skrivebord\Programmering\Yatzy spil\YatzySpil\YatzySpil\bin\Debug\YatzySpil.exe
+C:\Users\kyhnj\OneDrive\Skrivebord\Programmering\Yatzy spil\YatzySpil\YatzySpil\bin\Debug\YatzySpil.pdb
+C:\Users\kyhnj\OneDrive\Skrivebord\Programmering\Yatzy spil\YatzySpil\YatzySpil\obj\Debug\YatzySpil.csprojAssemblyReference.cache
+C:\Users\kyhnj\OneDrive\Skrivebord\Programmering\Yatzy spil\YatzySpil\YatzySpil\obj\Debug\YatzySpil.Form1.resources
+C:\Users\kyhnj\OneDrive\Skrivebord\Programmering\Yatzy spil\YatzySpil\YatzySpil\obj\Debug\YatzySpil.Properties.Resources.resources
+C:\Users\kyhnj\OneDrive\Skrivebord\Programmering\Yatzy spil\YatzySpil\YatzySpil\obj\Debug\YatzySpil.csproj.GenerateResource.cache
+C:\Users\kyhnj\OneDrive\Skrivebord\Programmering\Yatzy spil\YatzySpil\YatzySpil\obj\Debug\YatzySpil.csproj.CoreCompileInputs.cache
+C:\Users\kyhnj\OneDrive\Skrivebord\Programmering\Yatzy spil\YatzySpil\YatzySpil\obj\Debug\YatzySpil.exe
+C:\Users\kyhnj\OneDrive\Skrivebord\Programmering\Yatzy spil\YatzySpil\YatzySpil\obj\Debug\YatzySpil.pdb

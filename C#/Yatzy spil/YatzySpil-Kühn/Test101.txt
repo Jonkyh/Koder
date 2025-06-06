@@ -1,0 +1,4 @@
+Hej System.Windows.Forms.TextBox, Text: Jonas
+Dit YatzyScore: 0
+Gemmes d. onsdag , 27 januar 2021 klokken 10:58:18
+

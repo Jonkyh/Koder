@@ -1,0 +1,12 @@
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\bin\Debug\MasterMind Eksamensprojekt Prog-B.exe.config
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\bin\Debug\MasterMind Eksamensprojekt Prog-B.exe
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\bin\Debug\MasterMind Eksamensprojekt Prog-B.pdb
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\obj\Debug\MasterMind Eksamensprojekt Prog-B.csprojAssemblyReference.cache
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\obj\Debug\MasterMind_Eksamensprojekt_Prog_B.Properties.Resources.resources
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\obj\Debug\MasterMind_Eksamensprojekt_Prog_B.Startside.resources
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\obj\Debug\MasterMind Eksamensprojekt Prog-B.csproj.GenerateResource.cache
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\obj\Debug\MasterMind Eksamensprojekt Prog-B.csproj.CoreCompileInputs.cache
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\obj\Debug\MasterMind Eksamensprojekt Prog-B.exe
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\obj\Debug\MasterMind Eksamensprojekt Prog-B.pdb
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\obj\Debug\MasterMind_Eksamensprojekt_Prog_B.GameForm.resources
+C:\Users\kyhnj\OneDrive\Skrivebord\Eksamensprojekt Programmering B\MasterMind Eksamensprojekt Prog-B\MasterMind Eksamensprojekt Prog-B\obj\Debug\MasterMind_Eksamensprojekt_Prog_B.HowToPlayForm.resources
